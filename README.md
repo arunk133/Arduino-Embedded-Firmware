@@ -4,7 +4,7 @@ This repository contains standalone Arduino C++ (`.ino`) scripts designed to man
 
 ### 🔗 Companion Hardware Repository
 > 💡 **Looking for the circuit diagrams?** The virtual breadboards, component schematics, and simulation layouts for these exact code scripts are hosted in the companion repository:  
-> 👉 **[Arduino-Proteus-Hardware-Simulations](https://github.com/arunk133/Arduino-Proteus-Simulations)** 
+> 👉 **[Arduino-Proteus-Simulations](https://github.com/arunk133/Arduino-Proteus-Simulations)** 
 
 ---
 
